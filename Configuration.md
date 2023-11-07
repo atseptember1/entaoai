@@ -32,7 +32,7 @@
 |DOCGENERATOR_URL|Optional Settings|Required only if you are planning to use the AWS Integration.
 |*PROMPTS*||Default Prompts for Speech Analytics Use-case. <br>26 Keys with different prompt.
 
-## Application Configuration
+## Application Configuration 
 
 | Key | Default Value | Detail |
 | --- | --- | ------------- |
